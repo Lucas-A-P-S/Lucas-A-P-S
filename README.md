@@ -1,8 +1,5 @@
-## <h2 align="left">Olá 👋! Meu nome é Lucas!</h2>
-- 🌱 Estou aprendendo a linguagem C
-
-🤘😎🤘
-
+## <h2 align="left">Olá! Eu sou o Lucas!</h2>
+ - Estou aprendendo a linguagem C
 ###
 
 <div align="center">
